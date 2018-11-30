@@ -1,0 +1,23 @@
+{
+  "name": "smashsight-csv-to-json",
+  "version": "0.1.0",
+  "description": "Automatic conversion of SmashSight's CSV to JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tma02/smashsight-csv-to-json.git"
+  },
+  "author": "Tianyi Ma <tn.ma@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tma02/smashsight-csv-to-json/issues"
+  },
+  "homepage": "https://github.com/tma02/smashsight-csv-to-json#readme",
+  "dependencies": {
+    "commander": "^2.19.0",
+    "csv-parse": "^4.0.1"
+  }
+}
